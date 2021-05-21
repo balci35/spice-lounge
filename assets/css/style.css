@@ -261,6 +261,7 @@ footer i {
   background-position: center center;
 }
 
-.page-bg .row {
-  margin-top: 6rem;
+.page-bg .col-6 {
+  margin-top: 8rem;
+  color: white;
 }
